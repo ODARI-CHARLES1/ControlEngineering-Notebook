@@ -6,6 +6,7 @@ A Jupyter notebook project for control engineering analysis, design, and simulat
 
 This repository contains interactive notebooks for control systems engineering, including:
 
+
 - System modeling and analysis
 - Controller design and tuning
 - Simulation and verification
